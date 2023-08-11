@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&pause=1000&color=7A29FFF0&vCenter=true&width=435&lines=Hi!+I'm+Rae+%E2%9A%A1)](https://git.io/typing-svg)
 
+##### Brazillian Computer Science Student at University who fall in love with Cyber-Security ^^
+
 ```C++
 #include <iostream>
 #include <stdio.h>
@@ -10,11 +12,9 @@ int main() {
     char info[128] = "Computer Science and Cyber Security";
     char pronuns[4] = "she/her";
     char *langs[5] = {"C", "C++", "Java", "Python"};
-    char field[4] = {"Ethical-Hacking", "" };
+    char areas[4] = {"Web-Hacking", "Pentest", "Theorical Computer Science"};
 
-    cout << "I'm current studying for"
-    
-    // Discord:
+    // ... i hate CSS so much ^^
 
     return 0;
     }
