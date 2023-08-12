@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&pause=1000&color=7A29FFF0&vCenter=true&width=435&lines=Hi!+I'm+Rae+%E2%9A%A1)](https://git.io/typing-svg)
 
-##### Brazillian Computer Science Student at University who fall in love with Cyber-Security ^^
+##### Brazillian Computer Science Student who fall in love with Cyber-Security ^^
 
 <img src="https://i.pinimg.com/originals/94/a2/55/94a255e5608089f07a4fb167408add31.gif">
 
