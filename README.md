@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&pause=1000&color=7A29FFF0&vCenter=true&width=435&lines=Hi!+I'm+Rae+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8022F7&center=true&width=435&lines=Hi!+I'm+Rae+%F0%9F%91%BE)](https://git.io/typing-svg)
 
 ##### Brazillian Computer Science Student who fall in love with Cyber-Security ^^
 
