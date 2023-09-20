@@ -35,9 +35,5 @@ int main() {
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xssrae) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raquel-fontes-582025172)   
 
 
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xssrae&theme=omni&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
