@@ -26,7 +26,7 @@ int main() {
 <br> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,powershell,git,java,py,c,cpp,mysql,neovim" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,linux,bash,powershell,git,mysql,neovim" />
   </a>
 </p>
 
