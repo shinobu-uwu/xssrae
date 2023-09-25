@@ -15,7 +15,7 @@ int main() {
     char info[128] = "Computer Science and Cyber Security";
     char pronuns[4] = "she/her";
     char *langs[5] = {"C", "C++", "Java", "Python"};
-    char areas[4] = {"Web-Hacking", "Pentest", "Theorical Computer Science"};
+    char areas[4] = {"OSINT", "Threat hunter", "Red Team" "Theorical Computer Science"};
 
     // ... i hate CSS so much ^^
 
