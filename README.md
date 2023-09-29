@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8022F7&center=true&width=435&lines=Hi!+I'm+Rae+%F0%9F%91%BE)](https://git.io/typing-svg)
 
 <div align=center>
-    <p>Brazillian Computer Science Student who fall in love with Cyber-Security</p>
+    <p>Brazillian Computer Science Student, Cybersecurity Reseacher</p>
     <img src="https://i.pinimg.com/originals/94/a2/55/94a255e5608089f07a4fb167408add31.gif">
 </div>
 
