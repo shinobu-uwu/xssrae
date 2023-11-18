@@ -12,10 +12,10 @@ using namespace std::Rae;
 
 int main() {
 
-    char info[128] = "Computer Science and Cyber Security";
+    char info[128] = "Cyber Security and Computer Science";
     char pronuns[4] = "she/her";
-    char *langs[5] = {"C", "C++", "Java", "Python"};
-    char areas[4] = {"OSINT", "Threat Hunt", "Blue Team" "Theorical Computer Science"};
+    char *langs[5] = {"C", "Python", "Go"};
+    char areas[4] = {"Pentest", "Mobile Hacking", "Red Team" "Theorical Computer Science"};
 
     // ... i hate CSS so much ^^
 
