@@ -1,4 +1,3 @@
-<div align=center>
 ```C++
 #include <iostream>
 #include <stdio.h>
@@ -17,6 +16,8 @@ int main() {
 
     }
 ```
+
+<div align=center>
 <br> 
 <p align="center">
   <a href="https://skillicons.dev">
