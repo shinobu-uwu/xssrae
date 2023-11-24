@@ -14,10 +14,8 @@ int main() {
 
     return 0;
 
-    }
+}
 ```
-
-<div align=center>
 <br> 
 <p align="center">
   <a href="https://skillicons.dev">
