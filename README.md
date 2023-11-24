@@ -1,3 +1,8 @@
+
+- Red Teamer, Pentester, estudando Hacking Mobile e Engenharia Reversa.
+- Estudante de Ciência da Computação - 4⁰ Semestre.
+- Criadora do servidor Purple Team no Discord.
+
 ```C++
 #include <iostream>
 #include <stdio.h>
@@ -18,8 +23,6 @@ int main() {
 ```
 <br> 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,linux,bash,powershell,git,mysql,neovim" />
-  </a>
+    
 </p>
 
