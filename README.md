@@ -14,9 +14,9 @@ using namespace std::Rae;
 int main() {
 
     char info[128] = "Cyber Security and Computer Science";
-    char pronuns[4] = "she/her";
-    char *langs[5] = {"C", "Python", "Go"};
-    char areas[4] = {"Pentest", "Mobile Hacking", "Red Team" "Theorical Computer Science"};
+    char pronouns[8] = "she/her";
+    char *langs[3] = {"C", "Python", "Go"};
+    char *areas[4] = {"Pentest", "Mobile Hacking", "Red Team" "Theorical Computer Science"};
 
     // ... i hate CSS so much ^^
 
